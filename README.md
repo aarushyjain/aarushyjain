@@ -1,36 +1,35 @@
-<h1 align="center">Hi, I'm Aarushi Jain 👋</h1>
+<h1 align="center">Aarushi Jain</h1>
 
 <p align="center">
-  <b>CS Student · Data Analysis · AI & Machine Learning</b><br/>
-  Turning raw data into decisions. Building things that work.
+  CS student · Building at the intersection of data & AI<br/>
+  Turning raw data into decisions that matter
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aarushi-jainnn/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:aarushii0405@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-aarushii0405-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/aarushyjain">
-    <img src="https://img.shields.io/badge/GitHub-aarushyjain-black?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-aarushyjain-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### About me
 
-- 🎓 3rd year B.Tech Computer Science student at **MIET, Meerut**
-- 🔍 Focused on **Machine Learning, Data Analysis & AI**
-- 🏢 Completed a **Deloitte Australia** data analytics simulation — built dashboards, classified data, drew business conclusions
-- 🌱 Currently deepening skills in **ML models, Python, and real-world AI applications**
-- 📫 Open to **internships** in AI, ML, or Data Analytics
-- ⚡ I'd rather ask a dumb question early than submit a wrong answer confidently
+- 🎓 3rd year B.Tech Computer Science @ **MIET, Meerut**
+- 🤖 Focused on **Machine Learning, Data Analysis & AI**
+- 🏢 Completed **Deloitte Australia** data analytics simulation — built dashboards, drew business conclusions
+- 🌱 Currently deepening skills in ML models and real-world AI applications
+- 📫 Open to internships in **AI · ML · Data Analytics**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech stack
 
 **Languages**
 
@@ -42,6 +41,7 @@
 
 **Data & AI**
 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
@@ -55,28 +55,28 @@
 
 ---
 
-### 🚀 Projects
+### Projects
 
-| Project | What it does | Tech Used |
-|---------|-------------|-----------|
-| [🎵 Spotify Clone](https://github.com/aarushyjain/spotifyclone) | Responsive music player with dynamic playlists, audio controls & live progress tracking | HTML · CSS · JavaScript |
-| 🔜 ML Project (coming soon) | Data analysis + machine learning on real dataset | Python · Pandas · Scikit-learn |
+| | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 🎵 | [**Spotify Clone**](https://github.com/aarushyjain/spotifyclone) | Responsive music player with dynamic playlists, audio controls & live progress tracking. Built from scratch — no frameworks. | HTML · CSS · JS |
+| 🔜 | **ML / Data Project** *(coming soon)* | Data analysis + machine learning on a real dataset | Python · Pandas · Scikit-learn |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub stats
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarushyjain&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aarushyjain&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aarushyjain&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aarushyjain&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aarushyjain&theme=tokyonight&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarushyjain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushyjain&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <i>Actively looking for internships in AI, Machine Learning, or Data Analytics.</i><br/>
+  <b>→ aarushii0405@gmail.com</b>
 </p>
-
----
-
-### 🤝 Let's Connect
-
-I'm actively looking for internship opportunities in **AI, Machine Learning, or Data Analytics.**
-If my work looks interesting to you, let's talk.
-
-📧 aarushii0405@gmail.com
-🔗 [linkedin.com/in/aarushi-jainnn](https://www.linkedin.com/in/aarushi-jainnn/)
