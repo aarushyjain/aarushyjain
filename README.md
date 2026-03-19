@@ -65,31 +65,6 @@ aarushi = {
 <tr>
 <td width="50%">
 
-**🎵 Spotify Clone**
-> Responsive music player · dynamic playlists · audio controls · live progress tracking · zero frameworks
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aarushyjain/spotifyclone)
-
-</td>
-<td width="50%">
-
-**🤖 ML Project** *(coming soon)*
-> Data analysis + ML on real dataset · end-to-end pipeline · visualised insights
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-![Status](https://img.shields.io/badge/Status-Building-6366f1?style=flat-square)
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### `> github --stats`
