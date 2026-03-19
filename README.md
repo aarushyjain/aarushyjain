@@ -59,14 +59,6 @@ aarushi = {
 
 ---
 
-### `> projects --pinned`
-
-<table>
-<tr>
-<td width="50%">
-
----
-
 ### `> github --stats`
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarushyjain&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
