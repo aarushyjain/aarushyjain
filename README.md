@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Aarushi%20Jain&fontSize=42&fontColor=ffffff&fontAlignY=65"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;Data+Analytics;Generative+AI;Full+Stack+Development"/>
-
 </div>
 
 <div align="center">
