@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=180&section=header&text=Aarushi%20Jain&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=AI+Engineer;Generative+AI+Developer;Machine+Learning+Enthusiast;Building+AI+Agents;Full+Stack+Developer"/>
+
+</div>
 ### `> whoami`
 
 ```python
