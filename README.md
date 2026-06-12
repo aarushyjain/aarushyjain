@@ -1,82 +1,248 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=header&text=Aarushi%20Jain&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Data%20%7C%20AI%20%7C%20Machine%20Learning&descSize=16&descAlignY=85&descColor=c7d2fe"/>
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarushi-jainnn/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarushii0405@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aarushyjain)
-[![Open To Work](https://img.shields.io/badge/Open%20To%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
-
-</div>
-
----
-
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushyjain&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
 ### `> whoami`
 
 ```python
 aarushi = {
-  "degree"   : "B.Tech CS · 3rd year · MIET Meerut",
-  "focus"    : ["Machine Learning", "Data Analysis", "AI"],
-  "delivered": "Deloitte AU · dashboard · business insights",
-  "seeking"  : "Internship → AI / ML / Data Analytics",
-  "edge"     : "I ship. I don't just learn."
+    "education" : "B.Tech Computer Science",
+    "year"      : "4th Year",
+    "college"   : "MIET Meerut",
+
+    "role"      : "AI Engineer & Full Stack Developer",
+
+    "interests" : [
+        "Generative AI",
+        "AI Agents",
+        "Machine Learning",
+        "Data Analytics",
+        "Research Engineering"
+    ],
+
+    "building" : [
+        "Git Analytics",
+        "Alumni Connect",
+        "AI Applications"
+    ],
+
+    "community" : [
+        "FETC AI Developers Core Team",
+        "Hackathon Participant"
+    ],
+
+    "goal" : "Building AI products that create real-world impact"
 }
 ```
 
-<br clear="right"/>
+---
+
+## About Me
+
+Computer Science undergraduate passionate about Artificial Intelligence, Generative AI, AI Agents, Machine Learning, Data Analytics, and Full Stack Development.
+
+I enjoy building intelligent systems that combine software engineering with AI to solve real-world problems. My current focus is on AI-powered applications, developer productivity tools, data-driven decision-making systems, and research-oriented projects.
+
+### Open To
+
+* AI Research Internships
+* AI Engineer Internships
+* Generative AI Internships
+* Machine Learning Internships
+* Full Stack Development Roles
+* Open Source Collaborations
 
 ---
 
-### `> tech_stack`
+## Tech Stack
 
-**Languages**
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql" />
+</p>
 
-**Data & AI**
+### Frontend
 
-![ML](https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
 
-**Databases**
+### Backend & Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
+</p>
 
----
+### AI / ML
 
-### `> github --stats`
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6366F1?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-4F46E5?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-312E81?style=for-the-badge)
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarushyjain&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### Data & Visualization
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aarushyjain&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aarushyjain&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aarushyjain&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aarushyjain&theme=tokyonight&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 
 ---
 
-<div align="center">
+## AI / ML Expertise
 
-**Open to internships · AI · ML · Data Analytics**
+| Domain             | Proficiency         | Details                          |
+| ------------------ | ------------------- | -------------------------------- |
+| Machine Learning   | Intermediate        | Model Development & Evaluation   |
+| Data Analytics     | Advanced            | Tableau, Power BI, SQL, Excel    |
+| Generative AI      | Learning & Building | LLM Applications                 |
+| AI Agents          | Learning            | Agentic Workflows                |
+| NLP                | Intermediate        | Text Processing & Analysis       |
+| Data Visualization | Advanced            | Business Intelligence Dashboards |
 
-`aarushii0405@gmail.com`
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer"/>
+## Featured Projects
 
-</div>
+<details>
+<summary><b>Git Analytics</b></summary>
+
+AI-powered GitHub Developer Intelligence Platform providing repository analytics, contribution tracking, productivity insights, and visual reporting.
+
+| Category    | Details                |
+| ----------- | ---------------------- |
+| Stack       | Python, FastAPI, React |
+| Domain      | Developer Analytics    |
+| Performance | Real-Time Insights     |
+| Impact      | Developer Productivity |
+
+</details>
+
+<details>
+<summary><b>Alumni Connect</b></summary>
+
+Student-Alumni networking platform enabling mentorship, opportunity sharing, and professional collaboration.
+
+| Category | Details              |
+| -------- | -------------------- |
+| Stack    | MERN Stack           |
+| Domain   | Education Technology |
+| Impact   | Community Building   |
+
+</details>
+
+<details>
+<summary><b>AI Applications</b></summary>
+
+Collection of AI-powered projects focused on automation, analytics, and intelligent workflows.
+
+| Category | Details                    |
+| -------- | -------------------------- |
+| Stack    | Python, AI Libraries       |
+| Domain   | Artificial Intelligence    |
+| Impact   | Real-World Problem Solving |
+
+</details>
+
+---
+
+## Experience
+
+### Core Team Member — FETC AI Developers
+
+Working with the AI developer community to promote innovation, collaboration, and AI-focused development initiatives.
+
+**Skills**
+
+`Artificial Intelligence`
+`Machine Learning`
+`Problem Solving`
+`Community Leadership`
+
+---
+
+## Achievements
+
+| Recognition                   | Details                          |
+| ----------------------------- | -------------------------------- |
+| FETC AI Developers            | Core Team Member                 |
+| Hackathons                    | Active Participant               |
+| Deloitte Australia Simulation | Business Insights Dashboard      |
+| AI Projects                   | Building Practical AI Solutions  |
+| Data Analytics                | Dashboard Development & Insights |
+
+---
+
+## Certifications
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+---
+
+## Coding Profiles
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge\&logo=geeksforgeeks\&logoColor=white)](https://www.geeksforgeeks.org/profile/aarushifvf6)
+
+---
+
+## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarushyjain\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aarushyjain\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarushyjain\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=aarushyjain\&theme=tokyonight\&no-frame=true)
+
+---
+
+## Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aarushyjain\&theme=tokyo-night)
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Generative AI
+  - AI Agents
+  - System Design
+
+Building:
+  - Git Analytics
+  - Alumni Connect
+  - AI Applications
+
+Exploring:
+  - Multi-Agent Systems
+  - Retrieval Augmented Generation
+  - LLM Workflows
+
+Open_To:
+  - AI Research Internships
+  - AI Engineer Internships
+  - Generative AI Internships
+  - Machine Learning Internships
+  - Full Stack Roles
+```
+
+---
+
+## Connect
+
+📧 Email: [aarushii0405@gmail.com](mailto:aarushii0405@gmail.com)
+
+💼 LinkedIn: https://linkedin.com/in/aarushi-jainnn
+
+💻 GitHub: https://github.com/aarushyjain
+
+---
+
+*"Building intelligent systems, solving meaningful problems, and continuously learning through creation."*
